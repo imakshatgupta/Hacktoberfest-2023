@@ -1,6 +1,6 @@
 const Feedbacks = () => {
   return (
-    <div>
+    <div className="text-center">
       Feedbacks
     </div>
 
